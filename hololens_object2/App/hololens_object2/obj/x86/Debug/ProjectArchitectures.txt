@@ -1,0 +1,2 @@
+C:\Users\HPZBook\Documents\hololens_object2\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\HPZBook\Documents\hololens_object2\App\hololens_object2\hololens_object2.csproj;x86
